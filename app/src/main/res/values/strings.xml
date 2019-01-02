@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnnabelleRemote</string>
+
+    <string name="dummy_button">Disconnect</string>
+</resources>
